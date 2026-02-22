@@ -41,3 +41,4 @@
 ## Ссылки
 - Репозиторий GitHub: https://github.com/ed-lamukhin/green-api-test-task
 - Опубликованная страница (GitHub Pages): https://ed-lamukhin.github.io/green-api-test-task/  
+- Ссылка для скачивания https://raw.githubusercontent.com/ed-lamukhin/green-api-test-task/main/Test_Task_DevOps.pdf
